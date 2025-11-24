@@ -10,8 +10,7 @@
 </p>
 
 <p align="center">
-  <i>"Building AI-powered solutions for tomorrow's problems."</i> — Turning cutting-edge ideas into real-world solutions
-</p>
+  <i>"Transforming ideas into intelligent solutions with AI."</i></p>
 
 ---
 
@@ -144,5 +143,5 @@ Custom AI chatbot interface with advanced conversational capabilities.
 </p>
 
 <p align="center">
-  <i>✨ **4x Hackath"I love building with AI"on Winner** - Google's Agentic AI Hackathon, National Level Social Hackathon '25, ImpactX Hackathon | Guinness World Records Participant ✨</i>
+  <i>✨ **4x Hackathon Winner** - Google's Agentic AI Hackathon, National Level Social Hackathon '25, ImpactX Hackathon | Guinness World Records Participant ✨</i>
 </p>
