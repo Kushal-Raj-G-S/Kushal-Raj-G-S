@@ -20,7 +20,7 @@ I'm an **AIML Engineering student** at **BMS Institute of Technology and Managem
 
 - 🎓 **Currently:** AIML Engineering @ BMSIT&M (2024-2027)
 - 💼 **Working at:** Aviratha Digital Labs (IoT Intern) & AR VR HUB BMSIT (Marketing Team)
-- 🌟 **Achievements:** 4x Hackathon Winner | AWS Summit Bengaluru Attendee | National Level Social Hackathon Winner
+- 🌟 **Achievements:** 4x Hackathon Winner | AWS Summit Bengaluru Attendee | National Level Social Hackathon Winner | TechNest Intern of the week
 - 📍 **Based in:** Bengaluru, Karnataka, India
 - 🌐 **Portfolio:** [kushalrajgs.me](https://www.kushalrajgs.me)
 - ✉️ **Contact:** kushalrajgs@gmail.com
@@ -106,14 +106,8 @@ I'm an **AIML Engineering student** at **BMS Institute of Technology and Managem
 ### 🎨 [Pixova - AI-Powered Design Tool](https://github.com/Kushal-Raj-G-S/Pixova---AI-Powered-Design-Tool)
 An innovative AI-powered design tool built with TypeScript for creating stunning visual content.
 
-### 📦 [DocsVibe](https://github.com/Kushal-Raj-G-S/DocsVibe)
-A modern documentation platform for seamless collaboration and knowledge sharing.
-
 ### ⚡ [Flowfit](https://github.com/Kushal-Raj-G-S/Flowfit)
 A TypeScript-based fitness tracking application with smart analytics.
-
-### 💻 [Personal AI Bot Frontend](https://github.com/Kushal-Raj-G-S/personal-ai-bot-frontend)
-Custom AI chatbot interface with advanced conversational capabilities.
 
 ---
 
