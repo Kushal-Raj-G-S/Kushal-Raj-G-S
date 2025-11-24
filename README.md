@@ -143,5 +143,5 @@ Custom AI chatbot interface with advanced conversational capabilities.
 </p>
 
 <p align="center">
-  <i>✨ **Winners** dont do different things, they do things differently✨</i>
+  <i>✨ Winners dont do different things, they do things differently ✨</i>
 </p>
