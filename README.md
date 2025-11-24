@@ -1,6 +1,6 @@
 <!-- Header with animated typing effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Kushal+Raj+G+S+👋;AI+%26+IoT+Enthusiast;3x+Hackathon+Winner;Building+Smart%2C+Sustainable+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Kushal+Raj+G+S+👋;AI+%26+IoT+Enthusiast;4x+Hackathon+Winner;Building+Smart%2C+Sustainable+Tech" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -10,14 +10,14 @@
 </p>
 
 <p align="center">
-  <i>"Not a pro, but I build the one."</i> — Turning cutting-edge ideas into real-world solutions
+  <i>"Building AI-powered solutions for tomorrow's problems."</i> — Turning cutting-edge ideas into real-world solutions
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm an **AIML Engineering student** at **BMS Institute of Technology and Management** passionate about building innovative solutions at the intersection of **Artificial Intelligence**, **Machine Learning**, and **IoT**. With a track record of **3x Hackathon Wins**, I thrive on turning complex problems into elegant, impactful solutions.
+I'm an **AIML Engineering student** at **BMS Institute of Technology and Management** passionate about building innovative solutions at the intersection of **Artificial Intelligence**, **Machine Learning**, and **IoT**. With a track record of **4x Hackathon Wins**, I thrive on turning complex problems into elegant, impactful solutions.
 
 - 🎓 **Currently:** AIML Engineering @ BMSIT&M (2024-2027)
 - 💼 **Working at:** Aviratha Digital Labs (IoT Intern) & AR VR HUB BMSIT (Marketing Team)
@@ -36,11 +36,10 @@ I'm an **AIML Engineering student** at **BMS Institute of Technology and Managem
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
 
-### AI/ML & Data Science
+
+
+##[](url)# AI/ML & Data Science
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
@@ -52,7 +51,7 @@ I'm an **AIML Engineering student** at **BMS Institute of Technology and Managem
 
 ### Web Development
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
@@ -71,16 +70,18 @@ I'm an **AIML Engineering student** at **BMS Institute of Technology and Managem
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab"/>
+
 </p>
 
 ---
 
 ## 🏆 Achievements & Highlights
 
-- 🥇 **3x Hackathon Winner** - National Level Social Hackathon '25, ImpactX Hackathon, and more
+- 🥇 **4x Hackathon Winner** - Google's Agentic AI Hackathon, National Level Social Hackathon '25, ImpactX Hackathon | Guinness World Records Participant
 - 📣 **AWS Summit Bengaluru** - Explored cutting-edge cloud and AI technologies
 - 🌐 **Execom** - IEEE Robotics and Automation Society BMSIT&M
 - 💻 **Active Contributor** - Building smart, sustainable tech solutions
@@ -142,5 +143,5 @@ Custom AI chatbot interface with advanced conversational capabilities.
 </p>
 
 <p align="center">
-  <i>✨ "Coding is my love language" ✨</i>
+  <i>✨ **4x Hackath"I love building with AI"on Winner** - Google's Agentic AI Hackathon, National Level Social Hackathon '25, ImpactX Hackathon | Guinness World Records Participant ✨</i>
 </p>
