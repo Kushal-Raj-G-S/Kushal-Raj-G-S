@@ -21,7 +21,7 @@ I'm an **AIML Engineering student** at **BMS Institute of Technology and Managem
 
 - 🎓 **Currently:** AIML Engineering @ BMSIT&M (2024-2027)
 - 💼 **Working at:** Aviratha Digital Labs (IoT Intern) & AR VR HUB BMSIT (Marketing Team)
-- 🌟 **Achievements:** 3x Hackathon Winner | AWS Summit Bengaluru Attendee | National Level Social Hackathon Winner
+- 🌟 **Achievements:** 4x Hackathon Winner | AWS Summit Bengaluru Attendee | National Level Social Hackathon Winner
 - 📍 **Based in:** Bengaluru, Karnataka, India
 - 🌐 **Portfolio:** [kushalrajgs.me](https://www.kushalrajgs.me)
 - ✉️ **Contact:** kushalrajgs@gmail.com
@@ -39,7 +39,7 @@ I'm an **AIML Engineering student** at **BMS Institute of Technology and Managem
 
 
 
-##[](url)# AI/ML & Data Science
+##[](url)# AI/ML 
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
@@ -81,8 +81,9 @@ I'm an **AIML Engineering student** at **BMS Institute of Technology and Managem
 
 ## 🏆 Achievements & Highlights
 
-- 🥇 **4x Hackathon Winner** - Google's Agentic AI Hackathon, National Level Social Hackathon '25, ImpactX Hackathon | Guinness World Records Participant
+- 🥇 **4x Hackathon Winner** - CMRIT - National Level Social Hackathon'25, RNSIT - ImpactX Hackathon, BMSIT&M - DecodeX 2025, KSSEM - HackIO'25
 - 📣 **AWS Summit Bengaluru** - Explored cutting-edge cloud and AI technologies
+- 🌍 **Google Agentic AI Hackathon** - Part of the organizing committe which became later A Guiness World Record Event.
 - 🌐 **Execom** - IEEE Robotics and Automation Society BMSIT&M
 - 💻 **Active Contributor** - Building smart, sustainable tech solutions
 
