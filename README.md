@@ -143,5 +143,5 @@ Custom AI chatbot interface with advanced conversational capabilities.
 </p>
 
 <p align="center">
-  <i>✨ **4x Hackathon Winner** - Google's Agentic AI Hackathon, National Level Social Hackathon '25, ImpactX Hackathon | Guinness World Records Participant ✨</i>
+  <i>✨ **Winners** dont do different things, they do things differently✨</i>
 </p>
