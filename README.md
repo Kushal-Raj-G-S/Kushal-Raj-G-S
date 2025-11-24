@@ -24,7 +24,7 @@ I'm an **AIML Engineering student** at **BMS Institute of Technology and Managem
 - 🌟 **Achievements:** 3x Hackathon Winner | AWS Summit Bengaluru Attendee | National Level Social Hackathon Winner
 - 📍 **Based in:** Bengaluru, Karnataka, India
 - 🌐 **Portfolio:** [kushalrajgs.me](https://www.kushalrajgs.me)
-- ✉️ **Contact:** 1by23ai072@bmsit.in
+- ✉️ **Contact:** kushalrajgs@gmail.com
 
 ---
 
