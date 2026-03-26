@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kushal-Raj-G-S&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Kushal-Raj-GS&label=Profile%20views&color=0e75b6&style=flat" />
   <a href="https://github.com/Kushal-Raj-G-S?tab=followers"><img src="https://img.shields.io/github/followers/Kushal-Raj-G-S?label=Followers&style=social"></a>
   <a href="https://github.com/Kushal-Raj-G-S"><img src="https://img.shields.io/github/stars/Kushal-Raj-G-S?label=Stars&style=social"></a>
 </p>
@@ -95,7 +95,7 @@ Focused on:
 <p align="center">
   <a href="https://www.linkedin.com/in/kushal-raj-g-s/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Kushal-Raj-G-S"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.kushalrajgs.me"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge"/></a>
+  <a href="https://www.kushalrajgs.in"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge"/></a>
 </p>
 
 ---
