@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kushal-Raj-GS&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Kushal-Raj-G-S&label=Profile%20views&color=0e75b6&style=flat" />
   <a href="https://github.com/Kushal-Raj-G-S?tab=followers"><img src="https://img.shields.io/github/followers/Kushal-Raj-G-S?label=Followers&style=social"></a>
   <a href="https://github.com/Kushal-Raj-G-S"><img src="https://img.shields.io/github/stars/Kushal-Raj-G-S?label=Stars&style=social"></a>
 </p>
