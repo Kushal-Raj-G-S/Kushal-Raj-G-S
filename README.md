@@ -28,15 +28,46 @@ Focused on:
 
 ## 💻 Technical Skills
 
-**Languages:** Python, TypeScript, JavaScript, PostgreSQL  
+### 🧠 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-**Backend Systems:** FastAPI, Node.js, REST API design, schema design, asynchronous processing, Hyperledger Fabric  
+### ⚙️ Backend & Systems
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Async_Processing-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge"/>
+</p>
 
-**Frontend & Infra:** Next.js, React, Supabase, Neon, Docker, Cloudflare R2  
+### 🌐 Frontend & Infra
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
-**AI/ML:** RAG pipelines, semantic search (FAISS), CNNs (transfer learning), LSTM-based models, feature engineering  
+### 🤖 AI / ML
+<p>
+  <img src="https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LSTM-6A1B9A?style=for-the-badge"/>
+</p>
 
-**Tools:** Git, GitHub, GitHub Copilot, DigitalOcean, Heroku  
+### 🛠️ Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
+</p> 
 
 ---
 
