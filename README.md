@@ -1,6 +1,6 @@
 <!-- Header with animated typing effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=1500&lines=Kushal+Raj+G+S;Building+AI+Products+That+Actually+Scale;Product+Developer+%7C+Systems+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Kushal+Raj+G+S;Building+AI+Products+That+Actually+Scale;Product+Developer+%7C+Systems+Builder" />
 </h1>
 
 <p align="center">
