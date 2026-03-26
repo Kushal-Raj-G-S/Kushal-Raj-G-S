@@ -1,6 +1,6 @@
 <!-- Header with animated typing effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Kushal+Raj+G+S;Building+AI+Products+That+Actually+Get+Used;Product+Developer+%7C+Systems+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Kushal+Raj+G+S;Building+AI+Products+That+Actually+Scale;Product+Developer+%7C+Systems+Builder" />
 </h1>
 
 <p align="center">
@@ -10,78 +10,66 @@
 </p>
 
 <p align="center">
-  <i>Designing systems. Shipping products. Not just writing code.</i>
+  <i>Designing scalable systems. Shipping real products. Not just writing code.</i>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I build **end-to-end AI-driven systems** — from backend architecture to usable products.
+I build **end-to-end AI-driven systems** — from backend architecture to production-ready products.
 
-Not interested in toy projects or surface-level ML.
-
-- 🎓 AIML @ BMSIT&M  
-- 💼 IoT Intern @ Aviratha Digital Labs  
-- 📍 Bengaluru, India  
-
-**Focus:**
-- Real-world AI applications  
+Focused on:
 - Scalable backend systems  
-- Product-first development  
+- AI-powered applications  
+- Product-first engineering  
 
 ---
 
-## 💻 Tech Stack
+## 💻 Technical Skills
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
+**Languages:** Python, TypeScript, JavaScript, PostgreSQL  
 
-### Backend & Systems
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
-</p>
+**Backend Systems:** FastAPI, Node.js, REST API design, schema design, asynchronous processing, Hyperledger Fabric  
 
-### AI/ML
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
-</p>
+**Frontend & Infra:** Next.js, React, Supabase, Neon, Docker, Cloudflare R2  
+
+**AI/ML:** RAG pipelines, semantic search (FAISS), CNNs (transfer learning), LSTM-based models, feature engineering  
+
+**Tools:** Git, GitHub, GitHub Copilot, DigitalOcean, Heroku  
 
 ---
 
 ## 🧩 Featured Projects
 
-### 🧠 Baxel
-AI-powered backend system built for scalable product workflows.
+### 🔥 Roast – AI Review Intelligence Platform
+- Scaled a full-stack review analytics platform (Next.js, FastAPI, Supabase) to process **200K reviews in 2.66 minutes (~1.2K/sec)** using batched embedding pipelines and async execution, reducing timeout failures by 40%.  
 
-- Designed full backend architecture  
-- Built system-level integrations  
-- Focused on production-ready systems  
+- Designed an AI clustering pipeline using vector embeddings with LLM-generated summaries and RCA, processing **100K+ reviews**, reducing embedding API calls by 98% and cutting triage time from 8 hours to 15 minutes.  
 
----
+- Built a **multi-version shadow processing system (v1/v2/v3)** enabling safe rollout, drift monitoring, and regression analysis with AI-enriched outputs in ~5 minutes for large-scale datasets.  
 
-### 🔥 Roast
-AI-driven system focused on intelligent analysis / response generation.
-
-- Built as an end-to-end product  
-- Focus on real-time interaction and usability  
-- Designed with system-level thinking  
+- Developed a real-time analytics dashboard with sentiment scoring and drift indicators using optimized PostgreSQL query paths for low-latency insights.  
 
 ---
 
-### 🥷 Naruto VS Code Extension
-VS Code extension with **500+ installs (in 3 months)**.
+### 🧠 Baxel – AI Spec-to-Backend System
+- Built a production-grade full-stack platform (Next.js, FastAPI, Supabase) transforming natural-language specs into backend artifacts (schemas, APIs, migrations, business logic) via a **7-stage AI pipeline**.  
 
-- Built and shipped independently  
-- Real user adoption  
-- Continuous iteration based on usage  
+- Implemented **plan-based usage enforcement** (project limits, run limits, per-project caps) with strict API gating to support monetization and prevent abuse.  
+
+- Designed a **multi-stage AI refinement pipeline** (entity resolution, relationships, rule standardization, SQL mapping) improving backend consistency and developer trust.  
+
+---
+
+### 🌱 BioBloom – AI Driven Farm Intelligence Platform
+- Built a scalable agri-tech platform processing farm and simulation data through structured pipelines with real-time APIs and efficient batching.  
+
+- Developed a decision engine for crop planning, waste utilization, and pest prediction using embeddings, rule-based logic, and parallel inference workflows.  
+
+- Implemented asynchronous pipelines and deployment workflows ensuring **zero-downtime releases** and stable performance.  
+
+- Engineered a blockchain-based traceability system using Hyperledger Fabric with hybrid on/off-chain architecture for tamper-proof tracking.  
 
 ---
 
@@ -97,8 +85,8 @@ VS Code extension with **500+ installs (in 3 months)**.
 ## 📝 Current Focus
 
 - Building production-ready AI systems  
-- Exploring AI agents and automation workflows  
-- Designing scalable backend architectures  
+- Scaling AI pipelines for real-world workloads  
+- Designing backend systems that handle real users  
 
 ---
 
@@ -113,5 +101,5 @@ VS Code extension with **500+ installs (in 3 months)**.
 ---
 
 <p align="center">
-  <i>Ship fast. Build real. Iterate harder.</i>
+  <i>Ship systems that scale. Not demos that break.</i>
 </p>
